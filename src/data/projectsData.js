@@ -11,21 +11,21 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
+        projectName: 'Ecommerce Website',
+        projectDesc: 'This project is a shopping website,Customer can buy clothes and various types of wearings ',
+        tags: ['React', 'SAAS', 'Firebase'],
         code: '',
         demo: '',
         image: ''
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
-        image: seven
+        projectName: 'Monsters Rolodex',
+        projectDesc: 'Simple React project with monsters',
+        tags: ['React', 'SAAS'],
+        code: '',
+        demo: '',
+        image: ''
     }
    
 ]

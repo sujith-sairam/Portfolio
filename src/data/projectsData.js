@@ -11,21 +11,30 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ecommerce Website',
-        projectDesc: 'This project is a shopping website,Customer can buy clothes and various types of wearings ',
-        tags: ['React', 'SAAS', 'Firebase'],
-        code: '',
-        demo: '',
-        image: ''
+        projectName: 'House_Bidding Website',
+        projectDesc: 'Online platform for people where they can bid and sell property by auction ',
+        tags: ['React', 'Chakra UI', 'Firebase'],
+        code: 'https://github.com/sujith-sairam/house_bidding',
+        demo: 'https://house-bidding.vercel.app/',
+        image: 'https://i.ibb.co/VLLztWF/IMG-20230322-152123.jpg'
     },
     {
         id: 2,
+        projectName: 'Shopping Website',
+        projectDesc: 'This project is a shopping website,Customer can buy clothes and various types of wearings ',
+        tags: ['React', 'SAAS', 'Firebase'],
+        code: 'https://github.com/sujith-sairam/shopping-website',
+        demo: 'https://shopping-website-tau.vercel.app/',
+        image: 'https://i.ibb.co/fp4Y0gV/IMG-20230322-153229.jpg'
+    },
+    {
+        id: 3,
         projectName: 'Monsters Rolodex',
         projectDesc: 'Simple React project with monsters',
         tags: ['React', 'SAAS'],
-        code: '',
-        demo: '',
-        image: ''
+        code: 'https://github.com/sujith-sairam/Monsters-Rolodex',
+        demo: 'https://monsters-rolodex-beta-roan.vercel.app/',
+        image: 'https://i.ibb.co/1fr4tpK/IMG-20230322-WA0074.jpg'
     }
    
 ]
